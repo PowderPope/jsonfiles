@@ -1,0 +1,31 @@
+{
+  "Fylker": [
+    { "Navn": "Akershus", "Fjelltopp": "Fjellsjøkampen", "Høyde": "812" },
+    { "Navn": "Buskerud", "Fjelltopp": "Folarskardnuten", "Høyde": "1933" },
+    { "Navn": "Oppland", "Fjelltopp": "Galdhøpiggen", "Høyde": "2469" },
+    { "Navn": "Telemark", "Fjelltopp": "Gaustatoppen", "Høyde": "1883" },
+    { "Navn": "Hordaland", "Fjelltopp": "Hardangerjøkulen", "Høyde": "1861" },
+    {
+      "Navn": "Nord-Trøndelag",
+      "Fjelltopp": "Jetnamsklumpen",
+      "Høyde": "1512"
+    },
+    { "Navn": "Troms", "Fjelltopp": "Jiehkkevárri", "Høyde": "1834" },
+    { "Navn": "Oslo", "Fjelltopp": "Kjerkeberget", "Høyde": "630" },
+    { "Navn": "Nordland", "Fjelltopp": "Oksskolten", "Høyde": "1915" },
+    { "Navn": "Møre og Romsdal", "Fjelltopp": "Pyttegga", "Høyde": "1999" },
+    { "Navn": "Hedmark", "Fjelltopp": "Rondslottet", "Høyde": "2178" },
+    { "Navn": "Østfolk", "Fjelltopp": "Slavasshøgda", "Høyde": "336" },
+    {
+      "Navn": "Sogn og Fjordane",
+      "Fjelltopp": "Store Skagastølstinden",
+      "Høyde": "2405"
+    },
+    { "Navn": "Sør-Trøndelag", "Fjelltopp": "Storskrymten", "Høyde": "1985" },
+    { "Navn": "Aust-Agder", "Fjelltopp": "Sæbyggjenuten", "Høyde": "1507" },
+    { "Navn": "Vest-Agder", "Fjelltopp": "Urdalsknuten", "Høyde": "1433" },
+    { "Navn": "Rogaland", "Fjelltopp": "Vassdalseggi", "Høyde": "1658" },
+    { "Navn": "Vestfold", "Fjelltopp": "Vestfjellet", "Høyde": "634" },
+    { "Navn": "Finnmark", "Fjelltopp": "Øksfjordjøkelen", "Høyde": "1191" }
+  ]
+}
